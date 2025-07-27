@@ -47,7 +47,7 @@ export default function Page() {
         <BannerSection />
         <TrendSection />
         <LastestSection rawConcertList={rawConcertList} />
-        <CategorySection rawConcertList={rawConcertList} />
+        {/* <CategorySection rawConcertList={rawConcertList} /> */}
         <VenueSection />
         <Footer />
       </main>
