@@ -1,0 +1,8 @@
+.concert-banner {
+  background-image: url("/assets/images/concert-banner.png");
+}
+@media (max-width: 1280px) {
+  .concert-banner {
+    background-image: url("/assets/images/concert-banner-mobile.png");
+  }
+}

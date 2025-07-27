@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/prettierrc",
+  "semi": true,
+  "printWidth": 150,
+  "plugins": ["prettier-plugin-tailwindcss"],
+  "bracketSpacing": true,
+  "arrowParens": "always",
+  "trailingComma": "es5"
+}
